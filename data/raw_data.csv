@@ -1,0 +1,97 @@
+name,number_of_firms,total_taxable_income,total_taxes_paid,total_cash_taxes_paid
+Advertising,58,3891,961.68,940.393
+Aerospace/Defense,77,30920,5106.38,7441.78
+Air Transport,21,1820,655.214,240.024
+Apparel,39,5423,1112.11,1479.29
+Auto & Truck,31,33360,3529,2446.9
+Auto Parts,37,4200,905.547,1298.51
+Bank (Money Center),7,125000,21450.3,12205
+Banks (Regional),557,85660,18035.4,32391.2
+Beverage (Alcoholic),23,2644,923.338,804.714
+Beverage (Soft),31,28430,5170.93,5315.26
+Broadcasting,26,11810,2592.14,1261.26
+Brokerage & Investment Banking,30,52530,10939.4,12537.1
+Building Materials,45,19470,4291.34,4094.03
+Business & Consumer Services,164,18480,4164.27,4534.73
+Cable TV,10,25910,7726.2,6595.7
+Chemical (Basic),38,19590,4107.52,2257.59
+Chemical (Diversified),4,2820,494.9,344.32
+Chemical (Specialty),76,32840,7067.41,6000.61
+Coal & Related Energy,19,3025,175.1,23.7
+Computer Services,80,12840,2683.32,4721.03
+Computers/Peripherals,42,130400,21779.5,22648.6
+Construction Supplies,49,20520,4340.16,3858.57
+Diversified,23,15060,2404.9,9101.83
+Drugs (Biotechnology),598,59510,8480.33,12408
+Drugs (Pharmaceutical),281,95300,11581.2,24143.7
+Education,33,1282,369.7,561.261
+Electrical Equipment,110,13060,2625.55,2889.04
+Electronics (Consumer & Office),16,175.7,17.684,37.875
+Electronics (General),138,13560,2576.4,2565.91
+Engineering/Construction,43,4452,1018.78,729.673
+Entertainment,110,16610,3504.64,4032.53
+Environmental & Waste Services,62,6606,1460.97,976.708
+Farming/Agriculture,39,19420,3891.3,3787.07
+Financial Svcs. (Non-bank & Insurance),223,136500,28491.9,22331.7
+Food Processing,92,26370,5246.15,6901.43
+Food Wholesalers,14,3119,694.2,505.65
+Furn/Home Furnishings,32,3135,1027.66,1125.19
+Green & Renewable Energy,19,2471,347.06,95.879
+Healthcare Products,254,27440,4253.46,6427.9
+Healthcare Support Services,131,67810,14939.7,15428.4
+Heathcare Information and Technology,138,27160,4297.6,6888.84
+Homebuilding,32,32660,7553.31,5652.22
+Hospitals/Healthcare Facilities,34,12360,2979.26,2611.01
+Hotel/Gaming,69,16640,3968.18,3796.44
+Household Products,127,30620,6172.31,7358.87
+Information Services,73,49630,9482.03,11161.7
+Insurance (General),21,28710,5851.69,2934.04
+Insurance (Life),27,23040,3352.16,4123.88
+Insurance (Prop/Cas.),51,17410,3459.46,5570.13
+Investments & Asset Management,600,43950,7998.83,9450.87
+Machinery,116,21100,4427.08,5507.83
+Metals & Mining,68,13170,5058.41,3400.44
+Office Equipment & Services,16,652,157.97,184.478
+Oil/Gas (Integrated),4,131400,30387.2,22217.3
+Oil/Gas (Production and Exploration),174,115600,24231.1,11970.6
+Oil/Gas Distribution,23,11420,1910.85,109.032
+Oilfield Svcs/Equip.,101,58220,12273.7,5895.05
+Packaging & Container,25,12090,2464.6,2880.64
+Paper/Forest Products,7,2126,548.4,408.8
+Power,48,38840,5233.07,2289.73
+Precious Metals,74,1676,747.516,1837.35
+Publishing & Newspapers,20,1360,208.1,394.955
+R.E.I.T.,223,58870,2521.53,1933.73
+Real Estate (Development),18,658.4,151.19,66.603
+Real Estate (General/Diversified),12,251.7,57.58,42.407
+Real Estate (Operations & Services),60,6115,1236.99,1426.09
+Recreation,57,5840,1170.72,1191.1
+Reinsurance,1,617,40,163
+Restaurant/Dining,70,18330,3904,4484.91
+Retail (Automotive),30,17550,4134.3,3743.03
+Retail (Building Supply),15,34700,8645.21,8272.94
+Retail (Distributors),69,20040,4701.6,3790.42
+Retail (General),15,35470,9012.1,11642.3
+Retail (Grocery and Food),13,6743,1503.52,1317.73
+Retail (Online),63,10270,45.228,5817.4
+Retail (Special Lines),78,24930,5129.4,5660.91
+Rubber& Tires,3,692.1,0,201
+Semiconductor,68,81560,8329.07,13839.8
+Semiconductor Equip,30,21170,2859.21,3629.54
+Shipbuilding & Marine,8,2490,387.402,293.36
+Shoe,13,8846,1256.65,493.2
+Software (Entertainment),91,115200,18337,19016.3
+Software (Internet),33,2065,394.6,527.761
+Software (System & Application),390,117500,20894.6,23839.9
+Steel,28,33060,6819.11,4812.11
+Telecom (Wireless),16,2289,108.6,146.132
+Telecom. Equipment,79,19140,3530.43,5291.67
+Telecom. Services,49,53420,11807.4,4065.63
+Tobacco,15,19040,4802.09,5750.91
+Transportation,18,23910,5299.93,3449.64
+Transportation (Railroads),4,18520,4128,3585.33
+Trucking,35,17320,4233.55,2088.07
+Utility (General),15,17050,2838.76,1781.66
+Utility (Water),16,2531,457.08,51.987
+Total Market,7165,2.669e+06,502642,506551
+Total Market (without financials),5649,2.157e+06,403063,405007

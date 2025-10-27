@@ -33,11 +33,6 @@ build/
 dist/
 *.egg-info/
 
-# Data files (ignore large/raw data and generated outputs)
-data/
-transformed_data.csv
-*.csv
-
 # Ignore system files
 Thumbs.db
 

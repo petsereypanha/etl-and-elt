@@ -1,0 +1,38 @@
+{
+  "01M539": {
+    "street_address": "111 Columbia Street",
+    "city": "Manhattan",
+    "scores": {
+      "math": 657,
+      "reading": 601,
+      "writing": 601
+    }
+  },
+  "02M294": {
+    "street_address": "220 Henry Street",
+    "city": "Manhattan",
+    "scores": {
+      "math": 683,
+      "reading": 592,
+      "writing": 588
+    }
+  },
+  "03M485": {
+    "street_address": "755 East 100th Street",
+    "city": "Manhattan",
+    "scores": {
+      "math": 720,
+      "reading": 635,
+      "writing": 642
+    }
+  },
+  "04Q301": {
+    "street_address": "18-01 Cornaga Avenue",
+    "city": "Queens",
+    "scores": {
+      "math": 598,
+      "reading": 567,
+      "writing": 573
+    }
+  }
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "street_address": "111 Columbia Street",
+    "city": "Manhattan",
+    "scores": {
+      "math": 657,
+      "reading": 601
+    }
+  },
+  {
+    "street_address": "220 Henry Street",
+    "city": "Manhattan",
+    "scores": {
+      "math": 683,
+      "reading": 592
+    }
+  },
+  {
+    "street_address": "755 East 100th Street",
+    "city": "Manhattan",
+    "scores": {
+      "math": 720,
+      "reading": 635
+    }
+  },
+  {
+    "street_address": "18-01 Cornaga Avenue",
+    "city": "Queens",
+    "scores": {
+      "math": 598,
+      "reading": 567
+    }
+  }
+]
